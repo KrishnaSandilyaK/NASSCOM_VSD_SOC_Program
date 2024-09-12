@@ -28,9 +28,12 @@ Step1: Launching the tool
 
 Step 2: Running the Synthesis
   a) To run the Synthesis use 
+     
      run_synthesis
+    
     This will run both yosys & abc
-
+ 
+ ![step2](image5.PNG)
 
 
 
