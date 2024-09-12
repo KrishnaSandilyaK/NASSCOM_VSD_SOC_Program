@@ -1,19 +1,14 @@
 #####Day_1 - Synthesis ########
 #Step1: Launching the tool
-Open the terminal and go to the open-lane working directory
-![step1](image1.PNG)
-
-
-
-
-
-
-
-Type docker then the terminal will be changed into bash. After enterning into the bash type ./flow.tcl -interactive by this we are forcing the tool to work in interactive mode # image insertion
-
-docker
-
-./flow.tcl -interactive
+ a) Open the terminal and go to the open-lane working directory
+    ![step1_a](image1.PNG)
+ b) Type docker then the terminal will be changed into bash. After enterning into the bash type ./flow.tcl -interactive by this  
+    we are forcing the tool to work in interactive mode 
+ `docker
+ ./flow.tcl -interactive
+ ![step1_b](imag2.PNG)
+ 
+`
 
 
 
