@@ -27,14 +27,16 @@ Step1: Launching the tool
    ![step1_d](image4.PNG)
 
 Step 2: Running the Synthesis
-  a) To run the Synthesis use 
+ To run the Synthesis use 
      
-     run_synthesis
+   run_synthesis
     
-   This will run both YOSYS & ABC
+ This will run both YOSYS & ABC
  
- ![step2](image5.PNG)
+![step2](image5.PNG)
 
+Step 3: Calculation of D-FF Ratio
+  
 
 
 
