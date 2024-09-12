@@ -20,9 +20,11 @@ Step1: Launching the tool
     % prep -design picorv32a 
  
    ![step1_c](image3.PNG)
-   
+ 
+ d)  Review the files after design prep
+     
+     ![step1_d](image4.PNG)
 
-`
 
 
 
