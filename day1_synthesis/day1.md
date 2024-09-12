@@ -31,7 +31,7 @@ Step 2: Running the Synthesis
      
      run_synthesis
     
-    This will run both yosys & abc
+   This will run both YOSYS & ABC
  
  ![step2](image5.PNG)
 
