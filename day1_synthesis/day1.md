@@ -1,22 +1,24 @@
 #####Day_1 - Synthesis ########
 #Step1: Launching the tool
  a) Open the terminal and go to the open-lane working directory
+    
     ![step1_a](image1.PNG)
  
  b) Type docker then the terminal will be changed into bash. After enterning into the bash type ./flow.tcl -interactive by this  
     we are forcing the tool to work in interactive mode 
-    ```Linux
+    ```
     **`docker
     ./flow.tcl -interactive**
+   
    ```
     ![step1_b](imag2.PNG)
  
  c) Now the tool is opened. Next step is loading the packages for that following commands are to used
-   ```Linux
+    ```
     **`% package require openlane 0.9
        % prep -design picorv32a **
    ```
-   ![step1_b](image3.PNG)
+   ![step1_c](image3.PNG)
    
 
 `
