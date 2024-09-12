@@ -44,9 +44,9 @@ Step 3: Calculation of D-FF Ratio:
 
 ![step3](image7.PNG)
  
- The Ratio of DFF is: 
- number of D-FF(dfxtp2)/total number of cells = 1613/14876 = 0.108429
- % of D-flip flop = 0.108429685 x 100 = 10.842968
+ The Ratio of DFF: 
+  number of D-FF(dfxtp2)/total number of cells = 1613/14876 = 0.108429
+  % of D-flip flop = 0.108429685 x 100 = 10.842968
 
 
 
