@@ -1,7 +1,9 @@
 #####Day_1 - Synthesis ########
 #Step1: Launching the tool
 Open the terminal and go to the open-lane working directory
-![Image Description][image1.PNG]
+![Step1](image1.PNG)
+
+
 
 
 
