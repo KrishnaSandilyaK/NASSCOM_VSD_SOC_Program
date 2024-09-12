@@ -6,12 +6,14 @@
  
  b) Type docker then the terminal will be changed into bash. After enterning into the bash type ./flow.tcl -interactive by this  
     we are forcing the tool to work in interactive mode 
+    
     ```
-    **`docker
-    ./flow.tcl -interactive**
+    docker
+    ./flow.tcl -interactive
+
+    ```   
    
-   ```
-    ![step1_b](imag2.PNG)
+  [![step1_b](imag2.PNG)]
  
  c) Now the tool is opened. Next step is loading the packages for that following commands are to used
     ```
