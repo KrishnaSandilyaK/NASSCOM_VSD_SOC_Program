@@ -26,6 +26,10 @@ Step1: Launching the tool
      
    ![step1_d](image4.PNG)
 
+Step 2: Running the Synthesis
+  a) To run the Synthesis use 
+     run_synthesis
+    This will run both yosys & abc
 
 
 
