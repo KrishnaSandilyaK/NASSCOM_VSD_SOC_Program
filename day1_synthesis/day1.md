@@ -23,7 +23,7 @@ Step1: Launching the tool
  
  d)  Review the files after design prep
      
-     ![step1_d](image4.PNG)
+   ![step1_d](image4.PNG)
 
 
 
