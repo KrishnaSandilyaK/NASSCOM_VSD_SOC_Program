@@ -1,7 +1,7 @@
 #####Day_1 - Synthesis ########
 #Step1: Launching the tool
 Open the terminal and go to the open-lane working directory
-![Step1](image1.PNG)
+![Step1][def2]
 
 
 
@@ -19,3 +19,4 @@ docker
 
 
 [def]: /workspaces/NASSCOM_VSD_SOC_Program/day1_synthesis/image1.PNG
+[def2]: day1_synthesis/image1.PNG
