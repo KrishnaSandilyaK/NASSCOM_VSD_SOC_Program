@@ -12,5 +12,7 @@ Step 1: Launching the FP tool
      %run_floorplan
 ```
 ![Step 1](Image1.PNG)
+ Go to openlane_working_dir > openlane > designs > picorv32a > current date > results > floorplan 
+![Step 1](image2.PNG) 
 
 
