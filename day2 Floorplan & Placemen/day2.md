@@ -9,9 +9,8 @@ Step 1: Launching the FP tool
      % package require openlane 0.9
      %prep design picorv32a
      %run_sunthesis
-     %run_floorplan**
+     %run_floorplan
 ```
-
-![FP_COMMAND_Exe]{Image1.PNG}
+[!FP_run](Image1.PNG)
 
    
