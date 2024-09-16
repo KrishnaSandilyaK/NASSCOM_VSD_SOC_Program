@@ -11,6 +11,6 @@ Step 1: Launching the FP tool
      %run_sunthesis
      %run_floorplan
 ```
-[!FP_run](Image1.PNG)
+![step1](image1.PNG)
 
    
