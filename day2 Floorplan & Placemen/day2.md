@@ -39,10 +39,22 @@ Step3 : Viewing the floorplan in the Magic
 ```console
  magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magtc/sky130A.tech lef read../../tmp/merged.lef picorv 32a.floorplan.def &
 ```
+
 ![Step 3](image4.PNG)
 ![Step 3](image5.PNG)
 ![Step 3](image6.PNG)
 
+Step 4: Placement
+ Run the following command for the placement using RePLACE
+ ```console
+ % run_placemnt
+ ```
+ Now navigate to results directory and view the placement in magic  
+ ```console
+ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magtc/sky130A.tech lef read../../tmp/merged.lef picorv 32a.placement.def &
+
+![Step 4](image7.PNG)
+![Step 4](image8.PNG)
 
 
 
