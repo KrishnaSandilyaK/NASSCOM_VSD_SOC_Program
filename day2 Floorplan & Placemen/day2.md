@@ -1,4 +1,5 @@
 ####Day 2 -Floorplan & Placement
+
 Step 1: Launching the FP tool 
  Use the following commands in the openlane working dir which we used in Day 1
      docker
